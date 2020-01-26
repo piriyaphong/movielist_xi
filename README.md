@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+about movie list with CRUD application for andriod and iOS
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
