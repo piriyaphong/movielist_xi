@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "633258298518",
+    "firebase_url": "https://movielist-1897d.firebaseio.com",
+    "project_id": "movielist-1897d",
+    "storage_bucket": "movielist-1897d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633258298518:android:d76e1e2efb75d48bacc6b7",
+        "android_client_info": {
+          "package_name": "com.example.movie_list_x"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633258298518-j1a1ck1ardamc71oaikjv2ins13rird2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQvs-qrruZBa9Rh8pChnWI_hKQL2E6ccA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633258298518-j1a1ck1ardamc71oaikjv2ins13rird2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633258298518:android:f3895c7a137ac9ffacc6b7",
+        "android_client_info": {
+          "package_name": "com.example.movielist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633258298518-j1a1ck1ardamc71oaikjv2ins13rird2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQvs-qrruZBa9Rh8pChnWI_hKQL2E6ccA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633258298518-j1a1ck1ardamc71oaikjv2ins13rird2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633258298518:android:73e4556539ef53e8acc6b7",
+        "android_client_info": {
+          "package_name": "com.example.movielist_xi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633258298518-j1a1ck1ardamc71oaikjv2ins13rird2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQvs-qrruZBa9Rh8pChnWI_hKQL2E6ccA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633258298518-j1a1ck1ardamc71oaikjv2ins13rird2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
